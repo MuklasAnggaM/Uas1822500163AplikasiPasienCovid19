@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Uas1822500163AplikasiPasienCovid19</string>
+
+    <string-array name="Band">
+        <item>pilih kecamatan</item>
+        <item>Girimaya</item>
+        <item>Rangkui</item>
+        <item>Tamansari</item>
+        <item>pangkalbalam</item>
+    </string-array>
+    <string-array name="Band2">
+        <item>pilih kelurahan</item>
+        <item>Batu intan</item>
+        <item>Bukit beasar</item>
+        <item>pasar padi</item>
+        <item>semabung</item>
+    </string-array>
+
+
+</resources>
